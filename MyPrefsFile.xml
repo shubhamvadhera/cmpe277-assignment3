@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="ddd">
+        <string>ddd</string>
+        <string>dd</string>
+    </set>
+    <set name="jj">
+        <string>kk</string>
+        <string>jj</string>
+    </set>
+    <set name="Learning Android">
+        <string>Guide to Android Dev</string>
+        <string>Shubham Vadhera</string>
+    </set>
+</map>
