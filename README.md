@@ -1,7 +1,7 @@
-#Android - Data Storage - Shared Preferences, SQLite
+# Android - Data Storage - Shared Preferences, SQLite
 ## Learning Objective: Apply Android data storage techniques - Shared Preferences and SQLite.
 
-###App Name - AndroidDataStorage
+### App Name - AndroidDataStorage
 
 The app offers 2 interfaces to store your data. 
 
